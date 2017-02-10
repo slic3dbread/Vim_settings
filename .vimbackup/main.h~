@@ -1,0 +1,18 @@
+/***********************Student Name: Benjamin McConville
+************************Student Number: 0835849
+************************Date: 2014-09-22
+************************Assignment 1
+************************Filename: main.h*/
+
+
+void carbon(char*,int);
+
+void carbon_mian();
+
+double newton(double,double);
+
+void newton_main();
+
+int ackermann(int,int);
+
+void ackermann_main();

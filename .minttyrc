@@ -1,0 +1,14 @@
+BoldAsFont=no
+Term=xterm-256color
+BellSound=yes
+BellFlash=yes
+Transparency=low
+CursorType=line
+BackgroundColour=0,0,0
+ForegroundColour=217,166,217
+CursorColour=0,128,255
+OpaqueWhenFocused=no
+FontHeight=10
+AllowBlinking=yes
+Columns=126
+Rows=52

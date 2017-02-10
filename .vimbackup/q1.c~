@@ -1,0 +1,19 @@
+/***********************Student Name: Benjamin McConville
+************************Student Number: 0835849
+************************Date: 2014-10-09
+************************Assignment 2
+************************Filename: q1.c*/
+
+#include <stdio.h>
+#include <string.h>
+
+struct q1_t {
+    /* data */
+} /* optional variable list */;
+
+
+int main(void)
+{
+
+    return 0;
+}
